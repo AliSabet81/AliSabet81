@@ -20,7 +20,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
 <a href="https://linkedin.com/in/ali-sabet-443227302" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
   </a><br/>
@@ -42,7 +42,7 @@
 <br/>
 
 # 💻 Tech Stack:
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="28" alt="nextjs logo"  />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="28" alt="typescript logo"  />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="28" alt="tailwindcss logo"  />
@@ -79,7 +79,7 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AliSabet81&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
     <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AliSabet81&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -88,7 +88,7 @@
 </div>
 
 ## 🏆 GitHub Trophies
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=AliSabet81&theme=dracula&column=5&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="256" alt="trophy graph"  />
 </div>
 
