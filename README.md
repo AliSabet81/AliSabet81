@@ -89,7 +89,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=AliSabet81&theme=dracula&column=5&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="256" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=AliSabet81&theme=dracula&column=5&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="208" alt="trophy graph"  />
 </div>
 
 
