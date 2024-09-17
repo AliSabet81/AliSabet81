@@ -9,7 +9,7 @@
 - **Expertise:** Next.js, React, typescript
 - **Ambitions:** To continuously grow as a developer and explore new technologies.
 - **Languages:** Persian, English
-- **Work:** Currently serving as the front-end developer at **[Inja](https://inja.homes)**.
+- **Work:** Currently serving as the front-end developer at **[KhedmatAzMa](https://khedmatazma.com)**.
 
 <br/>
 
