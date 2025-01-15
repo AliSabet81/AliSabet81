@@ -16,11 +16,11 @@
 ## 🌐 Socials:
 <br clear="both">
 
-<img align="right" height="200" src="data.gif"  />
+<img align="left" height="300" src="uchiha.gif"  />
 
 ###
 
-<div align="left">
+<div align="right">
 <a href="https://linkedin.com/in/ali-sabet-443227302" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
   </a><br/>
