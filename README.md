@@ -75,6 +75,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="28" alt="postman logo"  />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="28" alt="supabase logo"  />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="28" alt="eslint logo"  />
+ <img src="https://img.shields.io/badge/Expo-000000?logo=Expo&logoColor=white&style=for-the-badge" height="28" alt="eslint logo"  />
 </div>
 
 # 📊 GitHub Stats:
