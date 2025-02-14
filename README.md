@@ -4,7 +4,7 @@
 # 💫 About Me:
 
 - **Name:** AliSabet
-- **Age:** 21
+- **Age:** 22
 - **Current Role:** FrontEnd Developer
 - **Expertise:** Next.js, React, typescript
 - **Ambitions:** To continuously grow as a developer and explore new technologies.
