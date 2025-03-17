@@ -94,7 +94,6 @@
 <img align="right" height="200" src="data.gif"  />
 </div>
 
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/AliSabet81/AliSabet81/output/snake.svg" alt="Snake animation" />
