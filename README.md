@@ -76,7 +76,20 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="28" alt="postman logo"  />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="28" alt="supabase logo"  />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="28" alt="eslint logo"  />
- <img src="https://img.shields.io/badge/Expo-000000?logo=Expo&logoColor=white&style=for-the-badge" height="28" alt="eslint logo"  />
+  <img src="https://img.shields.io/badge/Expo-000000?logo=Expo&logoColor=white&style=for-the-badge" height="28" alt="expo logo"  />
+  <img src="https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0" height="28" alt="Alpine.js logo" />
+  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" height="28" alt="Chart.js logo"  />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="28" alt="JWT logo"  />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" height="28" alt="NestJS logo"  />
+  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" height="28" alt="Nodemon logo"  />
+  <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" height="28" alt="PNPM logo"  />
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" height="28" alt="React Hook Form logo"  />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="28" alt="React Router logo"  />
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" height="28" alt="React Query logo"  />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="28" alt="React Native logo"  />
+  <img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white" height="28" alt="Appwrite logo"  />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" height="28" alt="Redis logo"  />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="28" alt="Docker logo"  />
 </div>
 
 # 📊 GitHub Stats:
